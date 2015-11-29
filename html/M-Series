@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<head>
+    <title>Series</title>
+     <link rel="stylesheet" href="http://s3.amazonaws.com/codecademy-content/courses/ltp/css/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="https://googledrive.com/host/0B8fj7ytjkoQjelZzN21kVTdGdTA">
+    
+    </head>
+
+<body>
+   
+    
+    <div class="M-Series">
+        <div class="container">
+             <div class="M-Series-nav">
+      <div class="container">
+        <ul class="pull-left">
+         
+             
+<a href="#"><button class="M-Series-button M-Series-button1">Home</button></a>
+<a href="#"><button class="M-Series-button M-Series-button2">series</button></a>
+<a href="#"><button class="M-Series-button M-Series-button3">M-series</button></a> 
+<a href="#"><button class="M-Series-button M-Series-button4">I-Series</button></a> 
+<a href="#"><button class="M-Series-button M-Series-button5">G-power</button></a> 
+</ul>
+<ul class="pull-right">
+<a href="#"><button class="M-Series-button M-Series-button7">Log in</button></a>
+<a href="#"><button class="M-Series-button M-Series-button8">Sign up</button></a>
+<a href="#"><button class="M-Series-button M-Series-button9">Contact</button></a>
+
+</ul>
+    </div>
+    </div>
+            <br>
+            <br>
+            <br>
+            <h1>
+                M-Series
+            </h1>
+            <p>
+                BMW
+            </p>
+            
+        </div>
+    </div>
+    
+    <div class="info">
+        <div class="container">
+        <h2>
+        BMW M-Series
+        </h2>
+        </div>
+        
+            <p>M staat voor:</p>
+            <p>Meer van alles.</p>
+        
+        <br>
+        <br>
+    </div>
+    
+    
+<div class="footer">
+  <div class="container">
+      <h1>
+          Alle BMW M-modellen
+      </h1>
+  </div>
+</div>
+
+ <div class="Mauto">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-1">
+                    <h3>
+                        M1
+                    </h3>
+                </div>
+                <div class="col-md-5">
+                   <br>
+                   <br>
+                   <h4><p>Klein en snel.</p></h4>
+                  <p>De BMW 1-serie M Coupé is de krachtigste versie en tevens het topmodel van de BMW 1-serie ontwikkeld door BMW M wat onderdeel is van de Duitse automobielconstructeur BMW. De 1-serie M Coupé werd op 10 december 2010 officïeel geprestenteerd na veel promotie in de vorm van video's en testritten met gecamoufleerde modellen.</p>
+                </div>
+                <div class="col-md-6">
+                    <br>
+                    <br>
+                    
+                    <img src="http://automobilio.info/auto/BMW-M1-E82.jpg" width=600px height=445px>
+                </div>
+            </div>
+
+
+
+
+ <div class="row">
+                <div class="col-md-1">
+                    <h3>
+                        M2
+                    </h3>
+                </div>
+                <div class="col-md-5">
+                   <br>
+                   <br>
+                   <h4><p>EEN GEBOREN ATLEET.</p></h4>
+                 <p> Design en concept van de eerste BMW M2 knopen aan bij de rijke historie van BMW M GmbH. Dit nieuwe M model combineert een verbluffend prestatiepotentieel en de traditionele achterwielaandrijving met de precisie en wendbaarheid van een state-of-the-art M model. De karakteristieke voor- en achterbumper optimaliseren de luchttoevoer en de aerodynamica. Het sportief afgestemde onderstel en de krachtige M TwinPower  Turbo 6-cilinder-in-lijn benzinemotor zorgen voor adembenemende performance.</p>
+                </div>
+                <div class="col-md-6">
+                    <br>
+                    <br>
+                    
+                    <img src="http://www.technrich.com/wp-content/uploads/2015/11/2016-bmw-m2-COUPE-660x400.jpg" width=600px height=370px>
+                </div>
+            </div>
+
+
+
+ <div class="row">
+                <div class="col-md-1">
+                    <h3>
+                        M3
+                    </h3>
+                </div>
+                <div class="col-md-5">
+                   <br>
+                   <br>
+                 <h4><p>Onvergelijkbaar met een ander.</p></h4>
+                  <p>De BMW M3 is een sportversie van de 3-reeks, geproduceerd door BMW M. Er zijn al vier generaties M3-modellen: de E30, E36, E46 en E90/E92/E93. IN 2007 stelde BMW de nieuwe BMW M3 Concept voor op het Autosalon van Genève. In de herfst van 2007 is de M3 E92 in productie gegaan en werden er 100.000 gemaakt. Opvallend is dat BMW met de E92 is overgestapt op een achtcilindermotor. De E36 had een M3 sedan, bij de E46 hebben ze deze achterwege gelaten en nu wordt er weer een M3 sedan (E90 dus) gemaakt.</p>
+                </div>
+                <div class="col-md-6">
+                    <br>
+                    <br>
+                    <img src="http://cdn.bmwblog.com/wp-content/uploads/bmw-m3-family-47-750x500.jpg" width=600px height=400px>
+                    
+                </div>
+            </div>
+
+
+
+ <div class="row">
+                <div class="col-md-1">
+                    <h3>
+                        M4
+                    </h3>
+                </div>
+                <div class="col-md-5">
+                   <br>
+                   <br>
+                   <h4><p>MENS. MACHINE. TOPPRESTATIES.</p></h4>
+                  <p>Al met zijn zeer lage gewicht van minder dan 1.500 kg volgens DIN maakt de BMW M4 Coupé duidelijk wat zijn doel is: het onmogelijke mogelijk maken. Uitgerust met de geheel nieuwe 431 pk sterke M TwinPower  Turbo 6-cilinder-in-lijn benzinemotor, de 7-traps M transmissie met dubbele koppeling en Drivelogic en precisietools zoals M Servotronic , actief M sperdifferentieel en adaptief M onderstel, is de icoon van het merk BMW klaar om de ring te betreden. Zijn uitdaging: de natuurkundige wetten. Zijn kracht: rijeigenschappen voor een nog nooit vertoonde eenheid van mens en machine.</p>
+                </div>
+                <div class="col-md-6">
+                    <br>
+                    <br>
+                    
+                    <img src="http://2.bp.blogspot.com/-nd8Xfmd1HP0/Va0gV5DrTOI/AAAAAAAASDI/6TxfVC9GRzc/s1600/vorsteiner-bmw-m4-wide-gtrs4-19.jpg" width=600px height=330px>
+                </div>
+            </div>
+
+
+
+ <div class="row">
+                <div class="col-md-1">
+                    <h3>
+                        M5
+                    </h3>
+                </div>
+                <div class="col-md-5">
+                   <br>
+                   <br>
+                   <h4>
+                       <p>Superieur in elk opzicht.</p>
+                       
+                   </h4>
+                   <p>-BMW M5 E60 (2005 - 2010)</p>
+                       <p>-M5 F10 (2011 - heden)</p>
+                 <p> De auto BMW M5 is een luxesportsedan van BMW. De wagen is gebaseerd op de BMW 5-serie.</p>
+                 <p>Onder de motorkap huist een "The Engine of the Year 2005"-motor, oftewel de S85, 10 cilinders tellende B50-motorblok. Met een cilinderinhoud van 4999 cc perst hij hiermee 507 pk uit. De 520 Nm komen vrij bij 6100 toeren per minuut. De E60 M5 heeft achterwielaandrijving en heeft een op de fabriek elektronisch afgeregelde topsnelheid van 250 kilometer per uur. De BMW M5 gaat vanuit stilstand naar 100 km/h in 4,7 seconden.</p>
+                </div>
+                <div class="col-md-6">
+                    <br>
+                    <br>
+                    
+                    <img src="http://41.media.tumblr.com/tumblr_ltwynhEMRX1qkdmweo1_1280.jpg" width=600px height=430px>
+                </div>
+            </div>
+
+
+
+ <div class="row">
+                <div class="col-md-1">
+                    <h3>
+                        M6
+                    </h3>
+                </div>
+                <div class="col-md-5">
+                   <br>
+                   <br>
+                  <h4><p>VURIG KARAKTER, VLAMMENDE PRESTATIES. </p></h4>
+                 
+                 <p>De BMW M6 is een auto van het merk BMW die in januari 2005 geïntroduceerd werd als een snelle versie van de BMW 6-serie.</p>
+                 <p>Hoe kunnen we passie uitdrukken? Men zou het met getallen kunnen proberen. Maar 560 pk en in 4,2 seconden van 0 naar 100 km/h geven slechts een fractie weer van de fascinatie die van de BMW M6 uitgaat. Bij de aanblik van de stijlvol vormgegeven en tegelijkertijd aerodynamisch geoptimaliseerde carrosserie is het enthousiasme van de BMW M ingenieurs al duidelijker herkenbaar. Met zijn krachtige lijnenspel toont de BMW M6 direct hoeveel autosport-DNA in deze sportwagen schuilt. Dat komt ook tot uiting in de cockpit. Deze is naar wens vervaardigd uit exclusieve materialen uit de BMW Individual collectie, en ademt sportiviteit tot in het kleinste detail. Zo staat de BMW M6 Coupé op pole-position waar het draait om indrukwekkende techniek. </p>
+                </div>
+                <div class="col-md-6">
+                    <br>
+                    <br>
+                    
+                    <img src="http://www.bmw.com/_common/shared/newvehicles/mseries/m6coupe/2015/showroom/start-bg.jpg" width=600px height=350px>
+                </div>
+            </div>
+
+
+
+ <div class="row">
+                <div class="col-md-1">
+                    <h3>
+                        M7
+                    </h3>
+                </div>
+                <div class="col-md-5">
+                   <br>
+                   <br>
+                  <h4><p>De nieuwe BMW 7-serie lijkt een topversie te krijgen waar de fans al jaren op hopen: een M7.</p></h4>
+                  <p>Dat meldt Autocar. De M7 moet een opgevoerde versie van de motor uit de BMW M5 onder de kap krijgen. In de M7 komt het vermogen dan uit 'boven de 600 pk'.
+
+Een ander belangrijk aspect van de nieuwe 7-serie is gewichtsreductie. BMW-topman Norbert Reithofer belooft 'toonaangevende resultaten op dat gebied'. BMW gaat namelijk een mix van aluminium, magnesium, staal van hoge kwaliteit en met koolstofvezel versterkt plastic (CFRP) gebruiken om de 7-serie honderden kilo's lichter te maken.
+
+Dat doet wonderen voor de wegligging én het verbruik. Waarschijnlijk komt er ook een plug-inhybride, die de CO2-uitstoot van het gamma verder naar beneden krijgt.
+
+BMW onthult de 7-serie in het najaar van 2015 op de IAA. De auto moet in de tweede helft van 2015 op de markt komen. Als de M7 inderdaad komt, dan is dat traditioneel in een later stadium.</p>
+                </div>
+                <div class="col-md-6">
+                    <br>
+                    <br>
+                    
+                    <img src="http://media.autoweek.nl/m/m1my7kgbftk2_600.jpg" width=px height=px>
+                    <br>
+                    <br>
+                </div>
+            </div>
+</body>
